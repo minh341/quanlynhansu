@@ -1,0 +1,5 @@
+QL|NV001|Nguyen Van An|12/03/1992|Nam|001092000111|Ha Noi|0901000001|an@congty.vn|01/02/2020|Dang lam|PB01|CD02|12|0|Tuyen dung
+BGD|NV002|Tran Thi Binh|25/07/1985|Nu|001085000222|Ha Noi|0901000002|binh@congty.vn|01/01/2018|Dang lam|PB04|CD04|12|0|Giam doc
+NV|NV003|Le Van Cuong|05/11/1998|Nam|001098000333|Hai Phong|0901000003|cuong@congty.vn|15/06/2023|Dang lam|PB02|CD01|12|0
+NV|NV004|Pham Thi Dung|30/01/1999|Nu|001099000444|Nam Dinh|0901000004|dung@congty.vn|10/09/2023|Dang lam|PB03|CD01|12|0
+BGD|NV005|Hoang Van Em|18/09/1988|Nam|001088000555|Ha Noi|0901000005|em@congty.vn|01/03/2019|Dang lam|PB03|CD03|12|0|Truong phong

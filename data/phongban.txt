@@ -1,0 +1,4 @@
+PB01|Phong Nhan su|Tuyen dung, ho so, luong
+PB02|Phong Ke toan|Tai chinh, ke toan
+PB03|Phong Kinh doanh|Ban hang, cham soc khach hang
+PB04|Ban Giam doc|Dieu hanh cong ty
